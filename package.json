@@ -5,5 +5,12 @@
   "repository": "git@github.com:SantonyChoi/uber-class.git",
   "author": "seunghoon <santony.choi@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^10.9.4",
+    "nodemon": "^1.18.4",
+    "ts-node": "^7.0.1",
+    "tslint-config-prettier": "^1.15.0",
+    "typescript": "^3.0.3"
+  }
 }
